@@ -1,0 +1,3 @@
+Users are free to use this program. However, neither the autor, nor FEUP, nor CNPq, nor any related Institution are responsible for any use or misuse of the program and the results. The aforementioned assume no liability or responsability to any person or company for direct or indirect damages resulting from the use of any information or the use of the software made available here. The user is responsible for any and all conclusions made while using the program. There is no warranty and no guarantee.
+
+Developed by: Guilherme Alencar (guilherme.alencar@fe.up.pt)

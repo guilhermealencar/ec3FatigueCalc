@@ -99,6 +99,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="icon-graphics-statistics-signal-console-pulse.ico" />
+    <Content Include="license.txt" />
     <Content Include="Resources\gnome_media_floppy.png" />
     <Content Include="Resources\gnome_media_floppy16x16.png" />
     <None Include="Resources\eraser.png" />
