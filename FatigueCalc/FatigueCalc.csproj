@@ -34,8 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>
-    </ApplicationIcon>
+    <ApplicationIcon>icon-graphics-statistics-signal-console-pulse.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup />
   <ItemGroup>
@@ -99,6 +98,7 @@
     <None Include="Resources\openfolderHS.png" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="icon-graphics-statistics-signal-console-pulse.ico" />
     <Content Include="Resources\gnome_media_floppy.png" />
     <Content Include="Resources\gnome_media_floppy16x16.png" />
     <None Include="Resources\eraser.png" />
@@ -106,7 +106,6 @@
     <None Include="Resources\CNPq_transparente.png" />
     <None Include="Resources\feup-logo.png" />
     <None Include="Resources\page_white_paste.ico" />
-    <None Include="Resources\paste1.ico" />
   </ItemGroup>
   <ItemGroup>
     <COMReference Include="Microsoft.Office.Core">

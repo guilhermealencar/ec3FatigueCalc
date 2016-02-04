@@ -62,6 +62,8 @@
             this.lbTensaoMaxima = new System.Windows.Forms.Label();
             this.lbDecimalPlaces = new System.Windows.Forms.DomainUpDown();
             this.dgRainflowSummary = new System.Windows.Forms.DataGridView();
+            this.dataGridViewTextBoxColumn4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.gbGeneralData = new System.Windows.Forms.GroupBox();
             this.btChoosePicture = new System.Windows.Forms.Button();
             this.lbPictureDetail = new System.Windows.Forms.TextBox();
@@ -73,8 +75,6 @@
             this.miExit = new System.Windows.Forms.MenuItem();
             this.btSaveAs = new System.Windows.Forms.Button();
             this.btCalculate = new System.Windows.Forms.Button();
-            this.dataGridViewTextBoxColumn4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.shortDescriptions = new System.Windows.Forms.ToolTip(this.components);
             this.gbSNCurve.SuspendLayout();
             this.containerWeb.SuspendLayout();
@@ -462,6 +462,22 @@
             this.dgRainflowSummary.KeyDown += new System.Windows.Forms.KeyEventHandler(this.dgRainflowSummary_KeyDown);
             this.dgRainflowSummary.KeyUp += new System.Windows.Forms.KeyEventHandler(this.dgRainflowSummary_KeyUp);
             // 
+            // dataGridViewTextBoxColumn4
+            // 
+            this.dataGridViewTextBoxColumn4.DataPropertyName = "Column1";
+            this.dataGridViewTextBoxColumn4.HeaderText = "Range";
+            this.dataGridViewTextBoxColumn4.Name = "dataGridViewTextBoxColumn4";
+            this.dataGridViewTextBoxColumn4.ReadOnly = true;
+            this.dataGridViewTextBoxColumn4.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            // 
+            // dataGridViewTextBoxColumn5
+            // 
+            this.dataGridViewTextBoxColumn5.DataPropertyName = "Column2";
+            this.dataGridViewTextBoxColumn5.HeaderText = "Cycles";
+            this.dataGridViewTextBoxColumn5.Name = "dataGridViewTextBoxColumn5";
+            this.dataGridViewTextBoxColumn5.ReadOnly = true;
+            this.dataGridViewTextBoxColumn5.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            // 
             // gbGeneralData
             // 
             this.gbGeneralData.Controls.Add(this.btChoosePicture);
@@ -552,22 +568,6 @@
             this.btCalculate.Text = "    Calculate";
             this.btCalculate.UseVisualStyleBackColor = true;
             this.btCalculate.Click += new System.EventHandler(this.btCalculate_Click);
-            // 
-            // dataGridViewTextBoxColumn4
-            // 
-            this.dataGridViewTextBoxColumn4.DataPropertyName = "Column1";
-            this.dataGridViewTextBoxColumn4.HeaderText = "Range";
-            this.dataGridViewTextBoxColumn4.Name = "dataGridViewTextBoxColumn4";
-            this.dataGridViewTextBoxColumn4.ReadOnly = true;
-            this.dataGridViewTextBoxColumn4.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            // 
-            // dataGridViewTextBoxColumn5
-            // 
-            this.dataGridViewTextBoxColumn5.DataPropertyName = "Column2";
-            this.dataGridViewTextBoxColumn5.HeaderText = "Cycles";
-            this.dataGridViewTextBoxColumn5.Name = "dataGridViewTextBoxColumn5";
-            this.dataGridViewTextBoxColumn5.ReadOnly = true;
-            this.dataGridViewTextBoxColumn5.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
             // 
             // fatigueCalculator
             // 
