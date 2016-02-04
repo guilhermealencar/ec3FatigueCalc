@@ -1,0 +1,10 @@
+C:\00_DOUTORADO\01_ARTIGOS\05_IRF2016 (Fatigue Tool)\fatigueCalc\FatigueCalc\bin\Debug\FatigueCalc.exe
+C:\00_DOUTORADO\01_ARTIGOS\05_IRF2016 (Fatigue Tool)\fatigueCalc\FatigueCalc\bin\Debug\FatigueCalc.pdb
+C:\00_DOUTORADO\01_ARTIGOS\05_IRF2016 (Fatigue Tool)\fatigueCalc\FatigueCalc\obj\x86\Debug\FatigueCalc.csprojResolveAssemblyReference.cache
+C:\00_DOUTORADO\01_ARTIGOS\05_IRF2016 (Fatigue Tool)\fatigueCalc\FatigueCalc\obj\x86\Debug\FatigueCalc.csproj.ResolveComReference.cache
+C:\00_DOUTORADO\01_ARTIGOS\05_IRF2016 (Fatigue Tool)\fatigueCalc\FatigueCalc\obj\x86\Debug\FatigueCalc.fatigueCalculator.resources
+C:\00_DOUTORADO\01_ARTIGOS\05_IRF2016 (Fatigue Tool)\fatigueCalc\FatigueCalc\obj\x86\Debug\FatigueCalc.aboutWindow.resources
+C:\00_DOUTORADO\01_ARTIGOS\05_IRF2016 (Fatigue Tool)\fatigueCalc\FatigueCalc\obj\x86\Debug\FatigueCalc.Properties.Resources.resources
+C:\00_DOUTORADO\01_ARTIGOS\05_IRF2016 (Fatigue Tool)\fatigueCalc\FatigueCalc\obj\x86\Debug\FatigueCalc.csproj.GenerateResource.Cache
+C:\00_DOUTORADO\01_ARTIGOS\05_IRF2016 (Fatigue Tool)\fatigueCalc\FatigueCalc\obj\x86\Debug\FatigueCalc.exe
+C:\00_DOUTORADO\01_ARTIGOS\05_IRF2016 (Fatigue Tool)\fatigueCalc\FatigueCalc\obj\x86\Debug\FatigueCalc.pdb
